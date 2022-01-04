@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/TravelAgency/static/css/main.9e6d0852.chunk.css",
+    "main.js": "/TravelAgency/static/js/main.f168d423.chunk.js",
+    "main.js.map": "/TravelAgency/static/js/main.f168d423.chunk.js.map",
+    "runtime-main.js": "/TravelAgency/static/js/runtime-main.62081f50.js",
+    "runtime-main.js.map": "/TravelAgency/static/js/runtime-main.62081f50.js.map",
+    "static/js/2.3a95bf45.chunk.js": "/TravelAgency/static/js/2.3a95bf45.chunk.js",
+    "static/js/2.3a95bf45.chunk.js.map": "/TravelAgency/static/js/2.3a95bf45.chunk.js.map",
+    "index.html": "/TravelAgency/index.html",
+    "static/css/main.9e6d0852.chunk.css.map": "/TravelAgency/static/css/main.9e6d0852.chunk.css.map",
+    "static/js/2.3a95bf45.chunk.js.LICENSE.txt": "/TravelAgency/static/js/2.3a95bf45.chunk.js.LICENSE.txt",
+    "static/media/fonts.scss": "/TravelAgency/static/media/Roboto-Regular.a8d6ac03.ttf",
+    "static/media/aerostat.5c0c0fbe.png": "/TravelAgency/static/media/aerostat.5c0c0fbe.png",
+    "static/media/africa.ac0e1595.jpeg": "/TravelAgency/static/media/africa.ac0e1595.jpeg",
+    "static/media/Intro.scss": "/TravelAgency/static/media/blob.5185a08e.png",
+    "static/media/case.3224c558.svg": "/TravelAgency/static/media/case.3224c558.svg",
+    "static/media/georgia.609f995d.jpg": "/TravelAgency/static/media/georgia.609f995d.jpg",
+    "static/media/italy.d3675efc.jpeg": "/TravelAgency/static/media/italy.d3675efc.jpeg",
+    "static/media/japan.66e3034d.jpeg": "/TravelAgency/static/media/japan.66e3034d.jpeg",
+    "static/media/mount.4348af88.svg": "/TravelAgency/static/media/mount.4348af88.svg",
+    "static/media/mounts.a55c90f1.jpeg": "/TravelAgency/static/media/mounts.a55c90f1.jpeg",
+    "static/media/HotTours.scss": "/TravelAgency/static/media/mountsBig.1861044e.png",
+    "static/media/polish.4f153b71.jpg": "/TravelAgency/static/media/polish.4f153b71.jpg",
+    "static/media/road.65e667c6.jpeg": "/TravelAgency/static/media/road.65e667c6.jpeg",
+    "static/media/road_four.1f585c5e.jpeg": "/TravelAgency/static/media/road_four.1f585c5e.jpeg",
+    "static/media/road_three.7bb67e31.jpeg": "/TravelAgency/static/media/road_three.7bb67e31.jpeg",
+    "static/media/road_two.2b247e83.jpeg": "/TravelAgency/static/media/road_two.2b247e83.jpeg",
+    "static/media/spain.9e5b0ec9.jpeg": "/TravelAgency/static/media/spain.9e5b0ec9.jpeg",
+    "static/media/Statistics.scss": "/TravelAgency/static/media/stat_bg.59f09dbd.jpeg",
+    "static/media/travel.b0d60591.svg": "/TravelAgency/static/media/travel.b0d60591.svg",
+    "static/media/turkish.d9ce86b0.jpg": "/TravelAgency/static/media/turkish.d9ce86b0.jpg",
+    "static/media/user.e01c9ca4.svg": "/TravelAgency/static/media/user.e01c9ca4.svg",
+    "static/media/village.451f4901.jpeg": "/TravelAgency/static/media/village.451f4901.jpeg",
+    "static/media/waterfall.a8437331.jpeg": "/TravelAgency/static/media/waterfall.a8437331.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62081f50.js",
+    "static/js/2.3a95bf45.chunk.js",
+    "static/css/main.9e6d0852.chunk.css",
+    "static/js/main.f168d423.chunk.js"
+  ]
+}
